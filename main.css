@@ -7,7 +7,8 @@ html {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/ocean.svg");
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/ocean.svg"); */
+  background-color: black;
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
