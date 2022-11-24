@@ -6,7 +6,7 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "https://hailer.cafe/",
-    "description": "Vibes for the Hailer Cave",
+    "description": "Sounds from the Hailer cave",
     "orientation": "any",
     "icons": [
         {
