@@ -10,8 +10,8 @@
     "orientation": "any",
     "icons": [
         {
-            "src": "https://hailer.cafe/images/hailer.svg",
-            "sizes": "1024x1024"
+            "src": "https://hailer.cafe/images/hailer.png",
+            "sizes": "512x512"
         }
     ]
 }
