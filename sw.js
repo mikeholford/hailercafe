@@ -4,8 +4,6 @@ const CACHE = "cacheV1";
 // Select files for caching.
 let urlsToCache = [
   "/",
-  "/index.html",
-  "/images",
   "/images/favicon.png",
   "/images/hailer.png",
   "/images/hailer.svg",
