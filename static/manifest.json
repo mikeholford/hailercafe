@@ -6,11 +6,11 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "https://hailer.cafe/",
-    "description": "Music",
+    "description": "Vibes for the Hailer Cave",
     "orientation": "any",
     "icons": [
         {
-            "src": "https://hailer.cafe/image/logo.png",
+            "src": "https://hailer.cafe/images/hailer.svg",
             "sizes": "1024x1024"
         }
     ]
