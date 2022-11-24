@@ -1,0 +1,17 @@
+{
+    "name": "Hailer Cafe",
+    "short_name": "Hailer Cafe",
+    "theme_color": "#515C58",
+    "background_color": "#515C58",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://hailer.cafe/",
+    "description": "Music",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://hailer.cafe/image/logo.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
