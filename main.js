@@ -1,13 +1,14 @@
 const audio = document.querySelector("#audio");
+const info = document.querySelector("#info");
 
 document.addEventListener('click', play);
 
 function play() {
   if (audio.paused) {
     audio.play();
-    play.innerHTML = "PAUSE";
+    info.style.visibility = "hidden";
   } else {
     audio.pause();
-    play.innerHTML = "PLAY";
+    info.style.visibility = "visible";
   }
 }

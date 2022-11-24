@@ -28,6 +28,9 @@ html {
   display: none;
 }
 
-.scloud {
-  display: none;
+#info {
+  font-family: monospace;
+  position: relative;
+  top: -90px;
+  color: #ffffff3d;
 }
